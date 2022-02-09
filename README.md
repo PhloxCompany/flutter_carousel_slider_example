@@ -3,7 +3,7 @@
 This repo is our web repo in github , follow us ❤.
 
 ### cover
-![Flutter Beautiful Login Page UI Design Cover](./assets/images/thumbnail.jpg?raw=true "flutter carousel slider")
+![flutter carousel slider](./assets/images/thumbnail.jpg?raw=true "flutter carousel slider")
 
 ## Development Setup
 Clone the repository and run the following commands:
@@ -14,7 +14,7 @@ flutter run
 ```
 ## ScreenShots
 
-<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/ui_app.png" height="512em"/>
+<img alt="flutter carousel slider" src="./assets/images/screen_shot.gif" height="512em"/>
 
 
 
