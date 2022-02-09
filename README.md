@@ -1,6 +1,4 @@
-# note_via
-
-## FlutterCarouselSlider  
+# FlutterCarouselSlider 
 
 This repo is our web repo in github , follow us ❤.
 
